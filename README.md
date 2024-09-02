@@ -17,6 +17,7 @@ The dataset includes attributes such as:
 ### 1. Data Cleaning
 - Handled missing values and outliers.
 - Handled duplicate rows.
+- Cleaned abnormal/inconsistent/anomalous rows.
 
 ### 2. Feature Engineering
 - Added new columns: Age, Spent, Children, Partner, Family, Has_Kids, and Customer_Duration_Years.
