@@ -1,10 +1,4 @@
-# MarketingCampaign---Customer-Clustering
-
-Here’s a draft for your README file:
-
----
-
-# Customer Personality Analysis Project
+# Customer Personality Analysis and Clustering Project
 
 ## Overview
 
